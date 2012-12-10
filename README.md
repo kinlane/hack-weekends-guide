@@ -96,6 +96,9 @@ It’s important to choose a timeframe that works for your expected audience. If
 
 Make clear the schedule of your event to participants in advance. If you choose a 9am start time, expect 20% to show up at 10am. Having an itinerary published at event signup will help make sure you can get started earlier. Schedule reception type activities at the beginning of the day to allow for some late arrivals. {3}
 
+### Checking for Clashes
+One of the most frustrating things for attendees to see is two similar events on the same day in the same area. To avoid this, check places like Lanyrd and Eventbrite, and ask on twitter “anything going on in X on X”. Remember that people may be travelling long distances for hack days, so even if an event is a few hundred miles away, you are still diluting your potental audience. {4}
+
 ## Choose a Venue
 
 The venue you select should be the right size and style for your event.  Hackathons can be held in many different venues, such as pubs, coffee shops or restaurants (if they have a separate space), rooms on campuses, or work areas or boardrooms provided by sponsors. {3}   
@@ -111,6 +114,73 @@ The venue must have a solid Internet connection, preferably with both wired and 
 Visit the venue ahead of time and make sure the room and network specifications are up to the challenge. Wireless networks are especially troublesome, so ask to see the access point -- if it looks old/cheap, enquire if you can configure your own more suitable equipment. Ask about outgoing firewalls or network restrictions that could cause problems for developers as they will use ports and network services that may not be used normally. Ports 22, 80 and 443 outbound are especially important to ensure that they are free from blocking/filtering or proxying. {3}
 
 Consider where food will go (best in a separate area), and the location of trash bins, tables, etc. Will everyone in your group be able to sit at a table with their laptop, have access to power, talk in groups, and eat? {3}
+
+The venue should be relatively easy for people from outside of town to locate, with good public transport links. If it’s difficult to reach, try to provide alternative means of transportation, such as coaches to/from local transport hubs throughout the event. Provide a full address, and if necessary, additional instructions to all attendees well in advance of the event. {4}
+
+Include instructions/contacts/getting in arrangements, too (i.e., what do to at reception/security desks). {4}
+
+Print big signs that will guide your attendees to the venue (and in some case inside the venue). {4}
+
+### Sleeping provision
+If attendees are staying overnight, then a separate (dark, quiet) area should be available away from the hacking should people decide to sleep. If possible, this should be several areas potentially including dedicated areas, for example male/female/mixed, minors (+chaperones?), snorer/non-snorer, night-owls/early birds.
+
+### Showers Optional
+Despite the stereotypes, most geeks like to keep clean. Only a few venues are able to provide showers - but if you can, you should. Make sure you tell attendees well in advance so they can bring towels and toiletries.
+
+### Accessibility
+Hack day venues should be accessible to everyone: at a bare minimum, there should be step-free access to all common parts of the building. If an attendee is blind or deaf, they should be able to participate too. Make sure your event signup forms mention accessibility and ask what accommodations might be needed. {4}
+
+### Insurance
+Does your venue have the relevant insurance? Are guests’ belongings protected in case of fire or theft? If not, you should make them aware of the risks so they can take extra precautions. Do you, as an organizer have adequate insurance? {4}
+
+### Security
+Attendees will often be bringing a lot of expensive kit: laptops, tablets, etc. Make sure they have some security. If the venue does not have some form of lockers, can you run a cloakroom system? {4}
+
+### Secure sites and photo ID
+Are the rooms going to be available to non-attendees? Work out whether you are running a secure site and whether people need to bring photo ID; if so, tell them when they sign up and remind them close to the event date. For some people, showing photo ID may be a deal breaker. Not everyone will have ‘government issued ID’, either. Providing proof of address may be hard for some. {4}
+
+## Network
+
+### Your 4MB DSL isn’t enough
+Hack days have special requirements: don’t just trust anyone who tells you that “it’ll be fine”. Think about the networking issues, and verify that they work for the kind of capacity you are going to have. People from the venue or their commercial partner will tell you all sorts of things you want to hear but keep in the back of your mind that they may not have any clue what they are talking about. Given the importance of network access, if you are operating a commercial event consider requiring network performance as part of your contract with venues and suppliers.
+
+### Rock solid WiFi
+Many commercial WiFi providers plan for much lower use than actually occurs at hack days. The network should be capable of handling at least 4 devices per attendee.
+
+### Minimal firewalling
+As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP), VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP), HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863), CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9), and Git (9418), must be open and accessible, without the need of proxy servers, and preferably without perimeter-level malware &c checks.
+
+### Subnet / DHCP capacity
+Subnet and DHCP server must have capacity for allocating 6 IPv4 (and optionally, IPv6) addresses (preferably a /29) per hacker.  If NAT is not used, attendees should be informed in advance.
+
+### WiFi security
+Use WPA2 security over an open WiFi network, to offer some basic protection against the monitoring of other users’ network traffic.
+
+### No device isolation
+Attendees should be reminded that when connected to the network, their devices may be accessible to all other devices on the network so they would be wise to secure them.
+
+Organisers should make it clear that they absolve themselves of liability for any intrusion or damage caused over the network. Attendees will want to share resources with other attendees (version control, for example) but while it would be wise for them to do so in a controlled manner it is ultimately up to each individual to be responsible for the security of their own devices, connected or otherwise.
+
+Attendees should be encouraged/advised to run their own firewalls, too, remembering that IPv6 exists.
+
+### IP Whitelisting
+For events with 150 attendees or more, you will need to contact organisations such as Twitter, Google, and Freenode in advance to inform them of the increased number of connections from your IP range; they may have an existing process that you should use.
+
+In many cases, rate-limiting is handled by authentication, not IP address (ranges).
+
+For Freenode, email iline@freenode.net with dates, expected number of attendees and IP addresses if possible.
+
+### QoS and Monitoring
+
+Traffic shaping and monitoring should be employed to help prevent a few users abusing the connection to the detriment of all others.
+
+DPI should not be used.
+
+### Ethernet to the Chair Optional
+In case of WiFi collapse (or if you can’t provide adequate WiFi at all) you should have ethernet available at the chairs. Have at least fast ethernet feeding into a gigabit backbone arranged in an (extended) star topology. If you go ethernet-only, announce this up-front. Regardless if you provide cables or attendees bring their own, you should have a big pile of spare cables at the venue.
+
+### Single subnet Optional
+Both wifi and ethernet should share a single subnet, allowing devices to communicate regardless of how they are connected to the network.
 
 ## Sponsorship
 
