@@ -208,7 +208,52 @@ Twitter - if you are established on Twitter and your Hackathon fits with your no
 * Local Government Officials and Representatives
 
 ## Social Networking
+
+Have a social networking presence is how you will connect with your attendees, before, during and after an event.  Give your attendees several channels to connect with you, using the social network they prefer: {2}
+
+* Twitter
+* Facebook
+* Github
+* LinkedIn
+* Google+
+
+Each of these social networks give you the ability to setup accounts and have a page dedicated to the event. {2}  
+
+If you setup social networking accounts.  Make sure you keep them active and actually engage with your audience. {2}
+
+## Social Bookmarking
+
+Much like social networking, a hackathon audience is using popular social bookmarking tools.  Every aspect of your hackathon marketing should be syndicated to top social bookmarking platforms:
+
+* Hacker News
+* Reddit
+* StumbleUpon
+
+Make sure your social bookmarking accounts are not just syndicating only your event info.  Employ accounts that are actually syndicating and sharing a wide variety of relevant content for your audience.
+
 ## Event Syndication
+
+There are several established and emerging sites for syndicating events to.  Your hackathon should have a standard event profile including:
+
+Title
+Description
+Tags
+Logo Image
+URL
+
+This information should be used consistently across top event web sites including:
+
+DingBee - http://dingbee.com/
+Eventful - http://eventful.com/
+EventSetter - http://www.eventsetter.com/
+Going - http://going.com/
+Laynyrd - http://lanyrd.com/
+Meetup - http://www.meetup.com/
+Plancast - http://plancast.com/
+UPComing - http://upcoming.yahoo.com/
+ZEvents - http://www.zvents.com/
+
+There are many places users will use to 
 
 # Execution
 ## Setting Up
