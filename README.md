@@ -292,6 +292,27 @@ Attendees are often averse to building on top of platforms and datasets that cou
 ### Local API testbeds Optional
 Where possible test servers for the APIs should be setup on the local network, this allows development to continue in the event of internet failure, and also isolates the live API’s from the increased usage the hack day will cause.
 
+## Prizes
+
+Prizes are common place for the top teams at hackathons.  Prizes can range from gift cards to cash.  There are many opinions on hackathon prizes, but it is up to you, how you want to reward your hackathon participants. {2}
+
+### Not every hack day needs prizes 
+Some people go to hack days to learn, or to play. Having one team go home with enormous prizes and many other teams go home with nothing may sour the end of the event. Make sure it’s not all about the money/toys. {4}
+
+### Prizes per team member
+Prizes must be divisible to encourage teamwork: it is very hard to slice an iPod into three bits. If you wish to give away physical goods there should be enough that they may be given to each member of a reasonably sized team. {4}
+
+### Available on the day
+Prizes should be on site on the day of judging and ready to be handed to attendees as the winners of the various prize categories are announced. Attendees should not need to claim a physical prize after the event unless said prize is dependent on winner. If the prize is not available on the day, clear printed instructions on how to claim must be provided instead. {4}
+
+### No cost to claim
+Attendees should not be required to pay a subscription or sign a contract in order to claim or make use of their prize. Requiring prizewinners to do so is likely to induce negative feelings in the winner towards the company providing the prize and the hack day organisers. {4}
+
+### Avoid service prizes
+Discounts and credit for an API, face time with a company’s CEO, or development resources to continue a hack make for poor prizes (with obvious exceptions such as of companies offering music/video streaming services or online stores) and are likely to just disappoint the winning team. When organizations/individuals wish to pursue further. {4}
+
+Remember, the hackathon is about the winner or prizes.  Its the experience! {2}
+
 # Preparation
 
 ## Website
@@ -441,22 +462,175 @@ As with other elements of this guide, attending other hackathons and experiencin
 
 # Execution
 ## Setting Up
+
+Ideally, you will have a technical person helping you convene the event. Have them arrive early and double check all the critical components.  {3}
+
+Your technical person will want to complete the following tasks, long before your hackathon is due to begin (the night before, ideally, or at least early enough in the morning to troubleshoot any problems that occur): {3}
+
+* Check the Network
+* Determine who is available to support the network. If it goes down, who is available to fix it?
+* Run a couple basic internet speed tests and make sure there is sufficient bandwidth available.
+* Make sure there are no HTTP proxies in place, and that the network is unfiltered.
+* Test that SSH, FTP and any other applications can connect externally.
+* Make sure quality networking equipment is in use for wifi and get any wireless login credentials. Try to avoid networking configurations that are set up with a web-based login system, as these can cause technical issues. If this is the case, see if you can get a clean line and set up your own wireless router.
+* Arrange the work tables
+* Try to allow for enough spacing to allow both laptops and food/drink at the tables. 
+* Make sure there are enough power outlets (powerbars) at each table.  As well, preferably enough wired network jacks at each table in the event they are needed.
+
+While the technical details are being sorted out, another organizer will want to be setting up the reception table, food, coffee and snacks. {3}
+
+Signage is important. Make sure there are signs that let the participants know that they are at the correct building and that they’ve found the right room. There should be contact information on these signs and if there are access controls (security, locked doors, etc.) in place, someone should be actively monitoring to make sure no one is stuck outside. Don’t rely on a ‘call us when you get here’ system because not everyone will have a mobile phone. {3}
+
+Inside the room, use signs, a whiteboard, or a flipchart to communicate relevant information to your attendees, such as the wifi access credentials, website urls, Twitter hashtag for the event, etc.  Use text large enough that it can be read across the room. {3}  
+
 ## Introduction
-## Agenda for the Day
+As people arrive, welcome them and direct them to the area where you’ll be working and where they can find coffee and snacks.  If you have a photo release form, this is a good time to hand it out, ask them to sign it and return it to you. {3}
+
+People will arrive at various times regardless of the official start time for your hackathon.  We recommend that you start the event on time, only delaying if you don’t think you have enough people to get started.  Don’t delay the start more than 15 minutes in order to honour the people who arrived on time. {3} 
+
+When it’s time to start, you# should get the attention of the room and give a brief introduction, being sure to cover the following topics: {3}
+
+* your name and why you organized the hackathon
+* the title and the theme of the hackathon
+* a thank you to the participants for attending, and an assurance it will be a fun day
+* a thank you to the hosts and sponsors for providing food, space, etc.
+* an introduction to open data
+* an overview of the day
+
+Optional: Depending on the time available and the number of participants, it is useful to have participants introduce themselves.  Ask them to state their name, something about themselves and what brought them to the hackathon.  This breaks the ice a bit and gives people some context as to who is in the room with them. {3}
+
+Finally, ask the participants if there are any questions before you get started.  Hackathons are a new concept to many people, just as open data is a new concept.   People may not know exactly what they will be doing, but at least you can give them some idea of the format, so that they can relax and focus on the next task. {3}
+
+## Agenda for Each Day
+We recommend a certain flow to a hackathon.  The main components for the day (and the approximate timing) that we recommend are as follows: {3}
+
+* 9:00 am 	Introduction
+* 9:30 am 	Brainstorming
+* 10:30 am	Break
+* 11:00 am	Pitches
+* 11:30 am	Breaking into Groups / Idea Development
+* 12:30 pm	Lunch
+* 1:00 pm	Solution Development
+* 4:30 pm	Show and Tell
+* 5:00 pm	Close
+
+This approach can be applied to multiple day hackathons by spreading solution development over the course of two days. {2}
+
 ## Brainstorming
+
+People often approach problems with preconceived ideas about what’s possible, based on what they know and their experiences to date.  This approach is great for survival, but ignores the the realm of knowing called “what you don’t know you don’t know”.  The job of the facilitator in this phase is to expand the realm of what’s possible so that participants can generate ideas that they may not have otherwise allowed themselves to contemplate. {3}
+
+There is a tendency to be realistic and come up with small, or practical solutions.  While this is fine, and simple solutions are often the best solutions, you want to encourage participants explore everything that’s possible to minimize the impact of the self-imposed limitations they walked into the room with. {3}
+
+You will want to provide a form or a shared spreadsheet to collect the generated ideas.  Google spreadsheets are perfect for this purpose.  Explain to the participants that they can enter their ideas into the spreadsheet if they want to, but that they don’t have to.  Sometimes people don’t want to record their idea in a public forum, and that’s fine.  The form should have descriptive information in the fields that help people think about some of the attributes and potential effects of their idea. {3}
+
+Here is an example of what your form could look like: {3}
+
+* Title - Project Title
+* Description - Brief description of project
+* Audience - Who would benefit from this project and roughly how many people would this represent?
+* Data - What data is needed?
+* Where	Where is the required data? - Past URLs into the data if known.
+* Skills - What skills are needed to further this project?
+* Considerations - Are there any other considerations? (threats, risks?)
+* Similar - Is this project or a similar project being done elsewhere?  Provide URLs if possible.
+* Collaborators - Who is working on this project? (names, twitter IDs)  If you prefer not to say, that’s okay too.
+
+Here is a link to the OpenDataBC form: http://goo.gl/Ye3DR  .  Please feel free to use this as an example; however, if you want to actually use it, be aware that your ideas will end up in the OpenDataBC ideas spreadsheet (and, we request that you only use the OpenDataBC spreadsheet if your event is an OpenDataBC sanctioned event). {3}
+
+Important: Let participants know that the spreadsheet is public on the internet.  If they don’t want to make their idea public, they may not want to use the tool.  Using the tool is not a requirement, it’s just a tool to help develop ideas and record them for those who want to do that. {3}
+
+Once you have described the brainstorming process, invite participants to start coming up with ideas.  The more ideas, the better, so if a person has more than one they should record them all.  Also encourage them to discuss their ideas with their neighbours.
+Let them know that the brainstorming will take place over the next 30 or so minutes.  Remind them that there is coffee and snacks and that at the end of the brainstorming session you will be inviting them to talk about their ideas with the room. {3}
+
+Once they have started, ask your room manager to help you wander around the room and chat with people one-on-one to see how they are doing.  Different people engage differently when given an opportunity to brainstorm publicly.  Some will jump right in and will engage with others around them.  Some will want to work on their own.  Some will want to work with others but may feel awkward or shy about getting involved with others.  The hackathon team members can help by simply going around from team to team or person to person and checking in with them, asking how it’s going, if they have thought of something, etc..  Sometimes a suggestion that people work together or for someone to join a team is all it takes to make someone’s experience of the day much more engaging.  A little bit of one-on-one can work wonders for people to get more out of the process. {3}
+
+The brainstorming session will often take longer than expected.  It takes awhile for people to warm up and for the ideas to start flowing.  Remind people to record their ideas and give periodic reminders about how much time they have left.  Usually, 30 to 45 minutes is sufficient for folks to be ready to move to the next step. {3}
+
 ## Pitching
+In the pitching phase, you invite participants to stand up at their tables one by one and share their idea with the room.  Remind them that the purpose is to introduce their idea so that they can attract other people to work on their idea with them (hence, the name of this component of the hackathon ‘pitching’).  They don’t have to end up working on that idea for the day, but they should pitch it in such a way that others get the value of their idea, and are inspired.  {3}
+
+This is an opportunity for you to inject some fun into the hackathon day, as you encourage your participants to do a really great sales pitch for their ideas. {3}
+
+Encourage people to ask questions about the ideas.  As facilitator, you should ask questions about ideas if you think of any that might help bring out the value of the idea or that might answer any obvious questions.  If people have more than one idea, encourage them to pitch as many as they want.  Also, if their idea requires a particular skill to implement (such as graphic design, writing, or data entry), let them know that this is the time to let potential collaborators what’s needed. {3}
+
+In addition to deciding which projects to work on for the day, the pitch session is a chance for participants to interact as one large group.  People are often nervous about standing up in the room and pitching their idea.  It helps if they see other people do it first so the facilitator should have one or two ideas to pitch and any other team members, especially the Ringer, should be prepared to pitch. {3}
+
+When everyone who wants to pitch their idea has had a chance to do so, it is time for you as the facilitator invite people to vote with their feet.  This means they pick up their belongings and move to the table where the person who pitched the idea they like best and that they want to work on, is sitting.  Encourage people to move around and work on the idea they liked.  If someone wants to work on their own idea, then they can just stay where they are.  Let people know it is okay to work alone if they wish, or in a group. {3}
+
 ## Formulation
+When people move into their groups, they will be tempted to jump right in and start working on the project.  Remind them that they should spend some time thinking about and developing the idea itself before diving into working on it.  Suggest that they work on the whiteboards or on paper as a team to develop the idea for an hour or so, perhaps until lunch arrives.  The facilitator can also suggest that they focus their idea down to its core so that they can have something to demo to others by the designated show-and-tell time near the end of the day. {3}
+
+This stage is a bit chaotic as people find places to work, and that’s fine.  The facilitator should  walk around the room and watch for folks who are not getting into groups and check in with them to see if they need some encouragement.  Some people choose to work alone, and that’s fine, and some people are shy or nervous about getting into a group of strangers and just need a bit of encouragement to do so. {3}
+
+Once your attendees move into groups it’s a good idea to encourage them to spend some time thinking and rethinking the proposed idea, now that there are more people involved.  This is also when they can split up the work so that everyone has something to do and the project progresses as quickly as possible. {3}
+
 ## Lunch
+At some point during this stage, lunch should arrive.  The facilitator should encourage folks to keep talking and working through lunch, and remind them that they have until 4:30 (or whatever your time for show-and-tell is) to work on their projects. {3}
+
 ## Concentration
+Concentration is the stage where people are actively working on their projects.   Once the teams are working, members of the organizing team can wander around the room and check on the teams, answer questions, and work on their own projects. {3}
+
+One of the most important tasks of the facilitator and the organizing team is to make sure everyone who wants to participate gets the opportunity to participate.  Sometimes at this stage there will still be a few people who are not participating.  This may be because they don’t feel they have anything to contribute, or because they are there to watch and don’t want to participate.  It’s worthwhile having a quick conversation with them to see if they are in the first camp.  If so, you can connect them with one of the groups so they can be part of the project, even if it’s just for idea generation and discussion.   {3}
+
+If they are in the second camp, where they don’t really want to participate, then let them know it’s fine to observe.   {3}
+
 ## Show and Tell
+The Show-and-Tell section is pretty straightforward.  It gives people an opportunity to show what they have worked on and get some feedback from the larger group. {3}  
+
+In preparation for this stage of the hackathon, you will want to have the projector set up, and accessible for people to easily connect to with their laptop.  {3}
+
+When the show-and-tell time arrives, ask folks to finish up with what they are working on and ask for volunteers to show their project.  Have your projector ready, and ask folks to come up to the front of the room one by one (or group by group) and show what they have worked on.  The facilitator should encourage questions and be prepared to ask some questions of their own. {3}
+
+People are often keen to show what they have done but again, it’s totally voluntary.  If someone has worked on something but isn’t comfortable showing it the facilitator can offer to show it for them, but since most projects have been worked on by teams, there will often be at least one person in each group that is comfortable and willing to show it. {3}
+
+Show-and-tell can take 30 to 60 minutes depending on the number of attendees. {3}
+
+## Judging
+
+If possible, let the judges meet all the teams for a few minutes, a couple of hours before the presentations. This means people don’t need to cram their whole idea in 60 seconds, but instead can demo the product to their peers knowing the judges understand how technically awesome their product is. This also allows for judges to fully inspect if a product was actually implemented, or is just a bunch of screenshots - and how technically advanced their project is. {4}
+
+## Announce Winners & Award Prizes
+
+Based upon your hackathon format, judging criteria and process you should be able to award winners of the event.   {2}
+
+Showcase all winners equally.  Make sure and highlight what they've done and what tools they used to accomplish their project. {2}
+
+Give out prizes and associate them to their sponsors. {2}
+
 ## Appreciation
-## Possible Challenges
+
+At the end of the hackathon, you have the opportunity to: {3}
+
+* thank participants for their generosity - especially if your hackathon is a weekend event, and they have given up personal time to be there
+* thank the host and sponsor for providing the space and food (or whatever applies)
+* thank any data providers 
+* thank any special guests
+* make your closing remarks
+
+For the closing remarks, you can mention the cause that brought you together (“open data” for example) and any upcoming events.  Also, let people know where they can get more information about the community.  If you have a mailing list or web site, now is the time to let them know about it. {3}
+
+Lastly, declare the hackathon complete. {3}
+
 ## Clean Up
+Unless you and your host have an alternative agreement, be sure to leave the room in as good or better condition than when you arrived.  Doing so is important for your reputation, your sponsor’s reputation, your cause, and the willingness of your host to allow future events.  You may want to ask one or two people before the event begins if they can help, or alternatively, ask for volunteers at the end.  Usually, there will be a few people willing to lend a hand in restoring the space. {3}
 
-# Post Event
+## Post Event Networking
+Depending on when your event ends, you may want to plan to go for a social beverage after the event at a local establishment.  This can be a great opportunity for your participants to talk some more about their projects and the new possibilities they have invented. {3}
 
-After Event
-Epilogue
+## After Event
+
+Even after your event is technically over, there are still opportunities to connect with your participants.  In doing this, you can let other folks who were not able to attend know what happened (and make them wish they hadn’t missed it!).  In addition, it’s another opportunity to thank your participants, recognize what they accomplished through their participation and demonstrate progress toward the overall goals of your cause, in this case, open data. {3}
+
+## Thank You
+
+## Stories
+
+## Social Connections
+
+## Update Website
+
+## Return on Investment (ROI)
 
 
 # Footnotes
