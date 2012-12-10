@@ -515,6 +515,17 @@ Information on projector resolution, contrast, etc should be provided to attende
 ### Hardware and mobile hacks
 If mobile or hardware hacks are expected, equipment to demonstrate them on the device should be present. Have a camera feed or visualiser available on the big screen. State ahead of time if that’ll be provided, to allow these to be demoed adequately. {4}
 
+## Safety
+
+### Emergency plans
+Make sure you have a plan for attendees who are injured, fall ill or suffer any other emergencies. Have at least one designated first aider on call. Make sure you know where the first aid box is, and check it’s appropriately stocked. Know the procedures for calling an ambulance, sounding the fire alarm, evacuation point, and logging incidents in the venue. Make sure attendees know who to turn to for help; a phone number, a few bright crew shirts and a central crew desk or wardrobe go a long way. A central point of contact will also help you deal with inevitable electric, network, venue- or food-related questions. {4}
+
+### Handling problematic people
+It’s unlikely that you’ll have to throw someone out, but just in case know what the procedures are, what you’re legally able to do and what kind of misbehaviour would actually trigger ejection. Some events have instituted safe space and anti-harassment policies due to widely reported incidents of sexual harassment. {4}
+
+### Keep your crew safe too
+Working at a hack day, as a volunteer or otherwise, can be a stressful and demanding job. Make sure your crew are safe, happy and well-fed throughout, and that you’ve got enough staff to cope with emergencies or unexpected dropouts! {4}
+
 ## Introduction
 As people arrive, welcome them and direct them to the area where you’ll be working and where they can find coffee and snacks.  If you have a photo release form, this is a good time to hand it out, ask them to sign it and return it to you. {3}
 
@@ -532,6 +543,17 @@ When it’s time to start, you# should get the attention of the room and give a 
 Optional: Depending on the time available and the number of participants, it is useful to have participants introduce themselves.  Ask them to state their name, something about themselves and what brought them to the hackathon.  This breaks the ice a bit and gives people some context as to who is in the room with them. {3}
 
 Finally, ask the participants if there are any questions before you get started.  Hackathons are a new concept to many people, just as open data is a new concept.   People may not know exactly what they will be doing, but at least you can give them some idea of the format, so that they can relax and focus on the next task. {3}
+
+## Setting the Right Tone
+
+### Don’t make people feel unwelcome
+Avoid sexism and other discriminatory language or attitudes. Don’t make any assumptions about your attendees. Get someone who is demographically very different from you to check your marketing material through to see if it makes sense and isn’t offensive to someone who doesn’t share your background. {4}
+
+## Do not Charge Attendees
+If developers are willing to donate their time – which could otherwise be used for paid work or hanging out with family and friends – they should not be charged for tickets. It shows a complete disrespect for the value of their time, and is likely to leave a bad feeling towards the organisers and sponsors. The developers are providing the sponsors a service in testing and showing the possibility of their APIs, data, products and services. {4}
+
+## Intellectual Property
+The intellectual property rights of hacks produced at the event should belong to the attendees, and not to the organisers, sponsors, or partners, with the obvious exception of (a) hack days based around the further development of an open source project, or (b) commercially run hacks.  Intellectual property can be a big issue; it is best to make expectations clear in advance, both to developers and to sponsors or data providers. {4}
 
 ## Agenda for Each Day
 We recommend a certain flow to a hackathon.  The main components for the day (and the approximate timing) that we recommend are as follows: {3}
@@ -617,6 +639,19 @@ When the show-and-tell time arrives, ask folks to finish up with what they are w
 People are often keen to show what they have done but again, it’s totally voluntary.  If someone has worked on something but isn’t comfortable showing it the facilitator can offer to show it for them, but since most projects have been worked on by teams, there will often be at least one person in each group that is comfortable and willing to show it. {3}
 
 Show-and-tell can take 30 to 60 minutes depending on the number of attendees. {3}
+
+If possible, have a shared, public listing of the hacks that have been submitted. This helps the judges, the attendees and bloggers/journalists who are covering the event. Hack submissions should be as straight forward as possible. You can use Google Docs, Etherpad or a wiki. Make sure that all attendees have write access and can concurrently edit. Plan for the hack listing to stay around as a historical record. Alternatively, there are hack submission services that will handle the logistics for you like Hacker League, Hackathon.io, or WeHack.it. {4}
+
+Anyone who hacks should be a allowed to demo at the end of the event, regardless of the quality or completeness. {4}
+
+### Time limit
+Each demo should be given a fixed time limit, standard times are 60, 90, 180, and 300 seconds. Tell presenters ahead of time, let them know how much time remains (either half time cards or an on-screen count down), and don’t let them run over. {4}
+
+### Clear Expectations
+Try and communicate clear expectations for the demos to all attendees from the beginning of the event. Some attendees will become frustrated when they see others demo-ing paper prototypes or Photoshop mockups when they believed a working implementation was required. If hacks do not meet these base requirements, they should not be able to win a prize. {4}
+
+### Audience Vote
+If you have an “audience choice” prize, someone will attempt to game the system, either technically or by running an obnoxious “vote for me” campaign. Keep the prize for it relatively small, and give attendees a one-time token (a code on the reverse of their pass for large events, or a physical item for smaller ones) in order to vote. {4}
 
 ## Judging
 
