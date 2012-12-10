@@ -215,6 +215,24 @@ As stated above, your attendees will be bringing two, three, or more devices mak
 ### Isolated power for hardware hacks *Optional
 Isolating the power for those doing hardware hacks is generally a good idea, don’t let one soldering iron knock out the entire venues power. {4}
 
+## Audio / Video
+
+Depending on the size of your hackathon, your audio and video needs will vary.  Here are some of the common needs of most hackathons. {2}
+
+### Microphone and PA
+Whether or not you need microphone and PA will depend on your venue, its acoustics and the size of your audience.  However there are always quiet people who don't talk loud, so boosting audio is always good. {2}
+
+### Projector
+You will need to have a project for the main presentations, but also consider secondary projectors for workshops or any sort of break-outs. {2}
+
+### Video Connectors
+For the demos, either have a set of adapters handy for (Apple Mac) Mini DisplayPort, VGA, DVI, and HDMI video outputs, or make sure attendees know the projector’s inputs ahead of time so they can make sure they have the relevant adapters. {4}
+
+### Hardware and Mobile Hacks
+If mobile or hardware hacks are expected, equipment to demonstrate them on the device should be present. Have a camera feed or visualiser available on the big screen. State ahead of time if that’ll be provided, to allow these to be demoed adequately. {4}
+
+Talk to your venue about what audio and visual equipment is provided, then research local audio visual professionals in the area.  It is likely you can get all the equipment you need from one vendor.
+
 ## Sponsorship
 
 Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event. {3}  
@@ -482,6 +500,20 @@ While the technical details are being sorted out, another organizer will want to
 Signage is important. Make sure there are signs that let the participants know that they are at the correct building and that they’ve found the right room. There should be contact information on these signs and if there are access controls (security, locked doors, etc.) in place, someone should be actively monitoring to make sure no one is stuck outside. Don’t rely on a ‘call us when you get here’ system because not everyone will have a mobile phone. {3}
 
 Inside the room, use signs, a whiteboard, or a flipchart to communicate relevant information to your attendees, such as the wifi access credentials, website urls, Twitter hashtag for the event, etc.  Use text large enough that it can be read across the room. {3}  
+
+## Audio / Video
+
+### Support
+There should be staff on hand to help users set-up quickly for their demos, such as connecting to the projector. If the equipment at the venue allows it, have one demo presenting while the next is setting up. {4}
+
+### Video connectors
+For the demos, either have a set of adapters handy for (Apple Mac) Mini DisplayPort, VGA, DVI, and HDMI video outputs, or make sure attendees know the projector’s inputs ahead of time so they can make sure they have the relevant adapters. {4}
+
+### Projector info
+Information on projector resolution, contrast, etc should be provided to attendees and speakers ahead of the event. {4}
+
+### Hardware and mobile hacks
+If mobile or hardware hacks are expected, equipment to demonstrate them on the device should be present. Have a camera feed or visualiser available on the big screen. State ahead of time if that’ll be provided, to allow these to be demoed adequately. {4}
 
 ## Introduction
 As people arrive, welcome them and direct them to the area where you’ll be working and where they can find coffee and snacks.  If you have a photo release form, this is a good time to hand it out, ask them to sign it and return it to you. {3}
