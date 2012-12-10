@@ -7,9 +7,8 @@ This template contains a how-to-guide with accompanying hackathon web site runni
 
 I wanted to provide a single README file for scanning, with as much support material as possible.  So you can easily understand the wonderful world of hackathons and begin planning and executing hackathons in your community.
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td style="border: 0px #FFF;" width="50%">
+<a href="http://singlycom/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/singly-logo-horizontal.png"  width="250" style="padding: 15px; width: 250px; float: right;" /></a>
+
 This open source guide is compiled with material from:
 
 * Hack Weekends Research
@@ -19,12 +18,6 @@ This open source guide is compiled with material from:
 And made possible by:
 
 * Funding of this project is provided by [Singly] (http://singly.com)
-</td>
-<td width="50%">
-<a href="http://singlycom/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/singly-logo-horizontal.png"  width="250" style="padding: 15px; width: 250px;" /></a>
-</td>
-</tr>
-</table>
 
 Hack Weekends Guide is licensed Creative Commons to keep alignment with contributors and a healthier global hackathon community.
 
