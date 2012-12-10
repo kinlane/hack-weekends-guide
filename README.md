@@ -235,25 +235,28 @@ Make sure your social bookmarking accounts are not just syndicating only your ev
 
 There are several established and emerging sites for syndicating events to.  Your hackathon should have a standard event profile including:
 
-Title
-Description
-Tags
-Logo Image
-URL
+* Title
+* Description
+* Tags
+* Logo Image
+* URL
 
 This information should be used consistently across top event web sites including:
 
-DingBee - http://dingbee.com/
-Eventful - http://eventful.com/
-EventSetter - http://www.eventsetter.com/
-Going - http://going.com/
-Laynyrd - http://lanyrd.com/
-Meetup - http://www.meetup.com/
-Plancast - http://plancast.com/
-UPComing - http://upcoming.yahoo.com/
-ZEvents - http://www.zvents.com/
+* [DingBee] (http://dingbee.com/)
+* [Eventful] (http://eventful.com/)
+* [EventSetter] (http://www.eventsetter.com/)
+* [Facebook] (http://www.facebook.com/events/)
+* [Going] (http://going.com/)
+* [Laynyrd] (http://lanyrd.com/)
+* [Meetup] (http://www.meetup.com/)
+* [Plancast] (http://plancast.com/)
+* [UpComing] (http://upcoming.yahoo.com/)
+* [ZEvents] (http://www.zvents.com/)
 
-There are many places users will use to 
+There are many event calendars users will use to discover new events in their local areas.  These represent a few of the top ways to market your event via event calendars.  
+
+Make sure and look for local event sites in your hackathons area.
 
 # Execution
 ## Setting Up
