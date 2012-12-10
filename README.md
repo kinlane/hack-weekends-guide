@@ -96,8 +96,56 @@ It’s important to choose a timeframe that works for your expected audience. If
 
 Make clear the schedule of your event to participants in advance. If you choose a 9am start time, expect 20% to show up at 10am. Having an itinerary published at event signup will help make sure you can get started earlier. Schedule reception type activities at the beginning of the day to allow for some late arrivals. {3}
 
-## Venue
+## Choose a Venue
+
+The venue you select should be the right size and style for your event.  Hackathons can be held in many different venues, such as pubs, coffee shops or restaurants (if they have a separate space), rooms on campuses, or work areas or boardrooms provided by sponsors.   
+
+Choose the right style of venue for your event.  For example, choosing a pub for a Hackathon where some of your desired participants are underage will not work well.  
+
+Choose the right size of venue as well.  Asking for pre-registration can help in choosing an appropriately-sized venue.  It is not always a reliable indicator as some folks do not like to commit or are reluctant to share their email addresses.  That said, asking them to register beforehand will give you some idea of how many will attend.  You can use a web service such as EventBrite, or you can simply use a Google spreadsheet.
+
+It should be possible to find a venue that you can use for free, although this is not always the case.  The venue should be located somewhere accessible for most of your attendees.  Ideally, it would also be free of access controls (e.g., locked doors). Where this is not possible, make sure that you have clear signage or greeters to make sure everyone can access the venue.  You could post your cell number on the signage so your participants can call to be let in.
+
+The venue must have a solid Internet connection, preferably with both wired and wireless networking. Where possible create a event specific SSID and Password for the wireless network that is simple to type and write down. A good example would be SSID = hackathon, Password = sponsor2012.
+
+Visit the venue ahead of time and make sure the room and network specifications are up to the challenge. Wireless networks are especially troublesome, so ask to see the access point -- if it looks old/cheap, enquire if you can configure your own more suitable equipment. Ask about outgoing firewalls or network restrictions that could cause problems for developers as they will use ports and network services that may not be used normally. Ports 22, 80 and 443 outbound are especially important to ensure that they are free from blocking/filtering or proxying.
+
+Consider where food will go (best in a separate area), and the location of trash bins, tables, etc. Will everyone in your group be able to sit at a table with their laptop, have access to power, talk in groups, and eat? 
+
 ## Sponsorship
+
+Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event.  
+
+In addition to providing a good working space for your attendees, it’s a good idea to provide plenty of food.  Not only will your attendees appreciate the gesture, but you want them to be able to focus on their projects without the distraction of leaving to get food and drinks.  For a one-day event starting in the morning, be prepared to provide coffee and pastries in the morning, a nutritious lunch with beverages, and snacks, water and cold beverages through the day.
+
+From our experience in various cities in BC, we had 30 attendees on average.  We have had as many as 60 and as few as 12.  Plan on spending $300 to $400 on food and beverages, depending on the number of attendees to your event. 
+
+When you talk to prospective sponsors about your event, they may have never heard of Hackathons.  They will want to know what to expect, so be prepared to explain a bit about Hackathons as well as about your cause.  
+
+Before you go to talk to your prospective sponsor, think about how they can benefit from your Hackathon so you can explain to them.  Benefits may include:
+
+* positive exposure from the event
+* being associated with open data
+* being able to meet and talk with the Hackathon attendees
+* having attention paid to their particular business area
+* exposure for their open data efforts
+* having prototype apps created using their data
+
+Be sure to let them know that you’d like to thank them publicly for their support, both on your Hackathon web page and via your social media.  Sometimes event sponsors are happy to help out but are not comfortable with the more public forms of gratitude such as Twitter and Facebook, so be sure you have their permission to mention them in social media.  You want to show thanks in a way that works for them.
+
+The types of organizations that are often happy to help out are:
+
+* Information Technology vendors
+* local and provincial governments
+* local businesses
+* software development firms
+* trade associations
+* educational institutions
+
+In some cases, you may find an organization that would like to provide the food, but doesn’t have a venue.  In other cases, you may find someone who is willing to provide a venue but not a budget for food.  It works fine for you to have two (or more) sponsoring organizations and and recognize them both.
+
+Part of the benefit of using sponsors is of course covering the costs.  Another benefit is to increase the exposure for your cause, or associate your cause and organization with other organizations.  Remember the reputation of your cause and organization will be affected by the host and sponsor you associate with, and vice versa, so choose organizations that are well respected and easy to work with.  Be respectful, gracious and professional in your interaction with them.
+
 ## Speakers
 
 # Preparation
@@ -108,18 +156,18 @@ Make clear the schedule of your event to participants in advance. If you choose 
 ## Social
 
 # Execution
-Setting Up
-Introduction
-Agenda for the Day
-Brainstorming
-Pitching
-Formulation
-Lunch
-Concentration
-Show and Tell
-Appreciation
-Possible Challenges
-Clean Up
+## Setting Up
+## Introduction
+## Agenda for the Day
+## Brainstorming
+## Pitching
+## Formulation
+## Lunch
+## Concentration
+## Show and Tell
+## Appreciation
+## Possible Challenges
+## Clean Up
 
 # Post Event
 
