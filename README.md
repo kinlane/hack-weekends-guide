@@ -3,23 +3,30 @@ Hack Weekends Guide
 
 This is an open source template for organizing a hackathon.
 
-This template contains a how-to-guide with accompanying hackathon web site running on Github Pages + Jekyll.
+This template contains a how-to-guide with accompanying hackathon web site running on [Github Pages] (http://pages.github.com/) + [Jekyll] (https://github.com/mojombo/jekyll).
 
 I wanted to provide a single README file for scanning, with as much support material as possible.  So you can easily understand the wonderful world of hackathons and begin planning and executing hackathons in your community.
 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td style="border: 0px #FFF;" width="50%">
 This open source guide is compiled with material from:
 
-* Research from 2011 / 2012 on Hackathons
-* Organizing Hackathons
+* Hack Weekends Research
 * Open Data Hackathon How to Guide
 * The Hack Day Manifesto
-* Numerous tip articles across the blogosphere
 
-Sponsorship
+And made possible by:
 
 * Funding of this project is provided by [Singly] (http://singly.com)
+</td>
+<td width="50%">
+<a href="http://singlycom/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/singly-logo-horizontal.png"  width="250" style="padding: 15px; width: 250px;" /></a>
+</td>
+</tr>
+</table>
 
-I am relicensing this as Creative Commons to keep alignment with contributors and a healthier global hackathon community.
+Hack Weekends Guide is licensed Creative Commons to keep alignment with contributors and a healthier global hackathon community.
 
 # Overview
 
@@ -61,13 +68,37 @@ Give your event a catchy name that represents your goals and will stick in the m
 
 Provide a detailed, but concise description of your event.  Generally 250-750 characters is sufficient to explain the theme and goals of the hackathon.
 
-## Format
+## Theme
 
 Hackathons got their beginning in cryptographic software development and was popularized by Silicon Valley startup culture.  However hackathons have moved into a wide variety of niches, not always centered around technology, including:
 
 Art, Civic, Data, Education, Games, Green Energy, Health, Journalism, Language, Mobile, Movies, Music, Photos, Politicis, Robotics, Science, Sports, Water, Women and more.
 
-The boundaries of what format a hackathon can assume is endless.  But there are some great examples being executed globally that might work for your hackathon.
+The boundaries of what theme a hackathon can assume is endless.  But there are some great examples being executed globally that might work for your hackathon.
+
+Your hackathon attendees will appreciate you putting a lot of thought into your theme.
+
+## Format
+
+The formats for hackathons are pretty loose.  Usually the format revolves around two distinct formats:
+
+* Hack Day - 12 to 24 hour timeframe
+* Hack Weekend - 24 to 48 hour timeframe
+
+Within this schedule several hackathon components can be applied:
+
+* Opening Ceremonies
+* Networking
+* Sponsor Presentations
+* Other Presentation
+* Idea Pitches
+* Team Formation
+* Project Presentations
+* Judging
+* Award Ceremonies
+* After Party
+
+This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best. 
 
 ## Size
 
@@ -387,29 +418,35 @@ You will need swag and merchandise.
 
 ## Food Considerations
 
+Food and drink is one of the connecting elements of hackathons.  Spending an entire day or weekend together, solving problems and sharing breakfast, lunch, dinner and late night snacks has a way of bringing people together. {2}
+
+Make the food at your hackathon a healthy, fulfilling experience for attendees. {2}
+
 ### Dietary requirements
-Not everyone in the technical community is hypercarnivorous. Be sure to check with your attendees for dietary requirements: food allergies, vegetarians, vegans and people with dietary restrictions. Make provisions to ensure they are provided for equally. If you’re on a budget, prioritise allergies and vegan alternatives; the vegan alternative will satisfy most non-allergy based requirements.
+Not everyone in the technical community is hypercarnivorous. Be sure to check with your attendees for dietary requirements: food allergies, vegetarians, vegans and people with dietary restrictions. Make provisions to ensure they are provided for equally. If you’re on a budget, prioritise allergies and vegan alternatives; the vegan alternative will satisfy most non-allergy based requirements. {4}
 
 ### Breakfast
-If your event starts before 11am you should provide breakfast to attendees, either continental or cooked.
+If your event starts before 11am you should provide breakfast to attendees, either continental or cooked. {4}
 
 ### Lunch
-You should provide a lunch for each day of the event, this should consist at least of sandwiches (or suitable alternatives for gluten intolerant folk).
+You should provide a lunch for each day of the event, this should consist at least of sandwiches (or suitable alternatives for gluten intolerant folk). {4}
 
 ### Dinner
-If your event runs later than 6pm or overnight you should provide attendees with a proper evening meal, not sandwiches or snacks (and not everybody likes/eats pizza).
+If your event runs later than 6pm or overnight you should provide attendees with a proper evening meal, not sandwiches or snacks (and not everybody likes/eats pizza). {4}
 
 ### Overnight
-If your event runs through the night, you should arrange for food to be available throughout the night, either by periodically refreshing it or supplying something that can still be eaten after it has gone cold.
+If your event runs through the night, you should arrange for food to be available throughout the night, either by periodically refreshing it or supplying something that can still be eaten after it has gone cold. {4}
 
 ### Drinks
-A selection of coffee, green and black tea (plus milks, sugars), energy drinks, caffeinated and non-caffeinated soft drinks, juices and water should be freely available to attendees throughout the event.
+A selection of coffee, green and black tea (plus milks, sugars), energy drinks, caffeinated and non-caffeinated soft drinks, juices and water should be freely available to attendees throughout the event. {4}
 
 ### Snacks
-Chocolate, sweets, biscuits, fruit, crisps, etc. should be freely available to attendees throughout the event. Try to ensure there are healthy options too.
+Chocolate, sweets, biscuits, fruit, crisps, etc. should be freely available to attendees throughout the event. Try to ensure there are healthy options too. {4}
 
 ### Alcohol
-Should be served as if you are the owner of your local bar because, in fact, you are. Check licensing rules with the venue, including where and when alcohol can be served and consumed and what time you need to stop serving. If you have underage attendees, make sure they’re not served alcohol. Penalties for failing to do this could range from a fine to imprisonment for the person providing alcohol and loss of licence for the venue.
+Should be served as if you are the owner of your local bar because, in fact, you are. Check licensing rules with the venue, including where and when alcohol can be served and consumed and what time you need to stop serving. If you have underage attendees, make sure they’re not served alcohol. Penalties for failing to do this could range from a fine to imprisonment for the person providing alcohol and loss of licence for the venue. {4}
+
+As with other elements of this guide, attending other hackathons and experiencing the food and drink is the best way to understand the best approach to catering your hackathon. {2}
 
 # Execution
 ## Setting Up
