@@ -148,6 +148,12 @@ Part of the benefit of using sponsors is of course covering the costs.  Another 
 
 ## Speakers
 
+Speakers are in important piece of hackathons.  Often times speakers are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
+
+Have a structured approach to structuring your speaker line-up.  Provide a framework for speakers to pariticpate in, providing title and abstracts for their talk within a set format and time line you dictate.
+
+Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.  Also, identify who will be MC'ing the hackathon and coordinating with all scheduled speakers.
+
 # Preparation
 
 ## Website
