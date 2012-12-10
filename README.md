@@ -142,45 +142,56 @@ Are the rooms going to be available to non-attendees? Work out whether you are r
 ## Network
 
 ### Your 4MB DSL isn’t enough
-Hack days have special requirements: don’t just trust anyone who tells you that “it’ll be fine”. Think about the networking issues, and verify that they work for the kind of capacity you are going to have. People from the venue or their commercial partner will tell you all sorts of things you want to hear but keep in the back of your mind that they may not have any clue what they are talking about. Given the importance of network access, if you are operating a commercial event consider requiring network performance as part of your contract with venues and suppliers.
+Hack days have special requirements: don’t just trust anyone who tells you that “it’ll be fine”. Think about the networking issues, and verify that they work for the kind of capacity you are going to have. People from the venue or their commercial partner will tell you all sorts of things you want to hear but keep in the back of your mind that they may not have any clue what they are talking about. Given the importance of network access, if you are operating a commercial event consider requiring network performance as part of your contract with venues and suppliers. {4}
 
 ### Rock solid WiFi
-Many commercial WiFi providers plan for much lower use than actually occurs at hack days. The network should be capable of handling at least 4 devices per attendee.
+Many commercial WiFi providers plan for much lower use than actually occurs at hack days. The network should be capable of handling at least 4 devices per attendee. {4}
 
 ### Minimal firewalling
-As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP), VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP), HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863), CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9), and Git (9418), must be open and accessible, without the need of proxy servers, and preferably without perimeter-level malware &c checks.
+As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP), VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP), HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863), CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9), and Git (9418), must be open and accessible, without the need of proxy servers, and preferably without perimeter-level malware &c checks. {4}
 
 ### Subnet / DHCP capacity
-Subnet and DHCP server must have capacity for allocating 6 IPv4 (and optionally, IPv6) addresses (preferably a /29) per hacker.  If NAT is not used, attendees should be informed in advance.
+Subnet and DHCP server must have capacity for allocating 6 IPv4 (and optionally, IPv6) addresses (preferably a /29) per hacker.  If NAT is not used, attendees should be informed in advance. {4}
 
 ### WiFi security
-Use WPA2 security over an open WiFi network, to offer some basic protection against the monitoring of other users’ network traffic.
+Use WPA2 security over an open WiFi network, to offer some basic protection against the monitoring of other users’ network traffic. {4}
 
 ### No device isolation
-Attendees should be reminded that when connected to the network, their devices may be accessible to all other devices on the network so they would be wise to secure them.
+Attendees should be reminded that when connected to the network, their devices may be accessible to all other devices on the network so they would be wise to secure them. {4}
 
-Organisers should make it clear that they absolve themselves of liability for any intrusion or damage caused over the network. Attendees will want to share resources with other attendees (version control, for example) but while it would be wise for them to do so in a controlled manner it is ultimately up to each individual to be responsible for the security of their own devices, connected or otherwise.
+Organisers should make it clear that they absolve themselves of liability for any intrusion or damage caused over the network. Attendees will want to share resources with other attendees (version control, for example) but while it would be wise for them to do so in a controlled manner it is ultimately up to each individual to be responsible for the security of their own devices, connected or otherwise. {4}
 
-Attendees should be encouraged/advised to run their own firewalls, too, remembering that IPv6 exists.
+Attendees should be encouraged/advised to run their own firewalls, too, remembering that IPv6 exists. {4}
 
 ### IP Whitelisting
-For events with 150 attendees or more, you will need to contact organisations such as Twitter, Google, and Freenode in advance to inform them of the increased number of connections from your IP range; they may have an existing process that you should use.
+For events with 150 attendees or more, you will need to contact organisations such as Twitter, Google, and Freenode in advance to inform them of the increased number of connections from your IP range; they may have an existing process that you should use. {4}
 
-In many cases, rate-limiting is handled by authentication, not IP address (ranges).
+In many cases, rate-limiting is handled by authentication, not IP address (ranges). {4}
 
-For Freenode, email iline@freenode.net with dates, expected number of attendees and IP addresses if possible.
+For Freenode, email iline@freenode.net with dates, expected number of attendees and IP addresses if possible. {4}
 
 ### QoS and Monitoring
 
-Traffic shaping and monitoring should be employed to help prevent a few users abusing the connection to the detriment of all others.
+Traffic shaping and monitoring should be employed to help prevent a few users abusing the connection to the detriment of all others. {4}
 
-DPI should not be used.
+DPI should not be used. {4}
 
 ### Ethernet to the Chair Optional
-In case of WiFi collapse (or if you can’t provide adequate WiFi at all) you should have ethernet available at the chairs. Have at least fast ethernet feeding into a gigabit backbone arranged in an (extended) star topology. If you go ethernet-only, announce this up-front. Regardless if you provide cables or attendees bring their own, you should have a big pile of spare cables at the venue.
+In case of WiFi collapse (or if you can’t provide adequate WiFi at all) you should have ethernet available at the chairs. Have at least fast ethernet feeding into a gigabit backbone arranged in an (extended) star topology. If you go ethernet-only, announce this up-front. Regardless if you provide cables or attendees bring their own, you should have a big pile of spare cables at the venue. {4}
 
 ### Single subnet Optional
-Both wifi and ethernet should share a single subnet, allowing devices to communicate regardless of how they are connected to the network.
+Both wifi and ethernet should share a single subnet, allowing devices to communicate regardless of how they are connected to the network. {4}
+
+## Power
+
+### Power Sockets
+You will need a minimum of 1.5 power sockets available for every seat. That’s a minimum; many attendees will bring two, three, or more devices that require separate power. Have spare cables available. Make sure you have access to the fuses of all used power circuits. {4}
+
+### Portable Appliance Testing
+As stated above, your attendees will be bringing two, three, or more devices making full PATs for every device an impossible endeavour. But if you are providing a lot of power strips it can be worth getting them tested. {4}
+
+### Isolated power for hardware hacks *Optional
+Isolating the power for those doing hardware hacks is generally a good idea, don’t let one soldering iron knock out the entire venues power. {4}
 
 ## Sponsorship
 
@@ -223,6 +234,41 @@ Speakers are in important piece of hackathons.  Often times speakers are represe
 Have a structured approach to structuring your speaker line-up.  Provide a framework for speakers to pariticpate in, providing title and abstracts for their talk within a set format and time line you dictate. {2}
 
 Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.  Also, identify who will be MC'ing the hackathon and coordinating with all scheduled speakers. {2}
+
+### Presentations
+Presentations by API and dataset providers should be kept to a minimum, try to make it a quick introduction involving the company name, the type of data / platform they have, and who to speak to for more information. Have technical - not marketing - people give the presentation as they will be asked technical questions, both on stage and during the rest of the event.
+
+### Working APIs
+The APIs pitched to attendees should be checked in advance by someone technical to confirm that they are suitable, work, and are of a high enough quality.
+
+### Multiple clients
+All APIs should provide client libraries in at least three of the major languages unless there is good reason for them not to (such as the target platform only supporting a single language).
+
+(And if you haven’t got the client libraries written, maybe you need an internal hack day to write them!)
+
+### Clean datasets
+Datasets provided for use in the hack day should, where possible, be checked in advance by someone technical to ensure they are well structured and in a sensible format (CSV, XML, JSON, RDF etc., rather than Excel spreadsheets and PDFs).
+
+### Thorough Documentation
+All APIs and datasets should have thorough documentation, detailing format, any codes or abbreviations, as well as the underlying assumptions and business logic of what it represents. The documentation should be checked by someone technical before announcing the API.
+
+### Local Downloads
+Datasets – especially large datasets – should be available over the network from local servers without the need for registration, and where possible available on USB keys for even faster transfer.
+
+### Make data explorable
+Try and ensure that large datasets are accompanied by smaller sample files so attendees can check them for suitability and write parsers using a small number of records before downloading and importing multi-gigabyte files.
+
+### API Keys
+If an API requires an key to use it, then make sure that someone is on site and able to authorize the requests quickly, and with as little fuss as possible.
+
+### Licensing
+Get clear licensing information from API and dataset providers ahead of time, and communicate those licences clearly to the attendees, remembering that those in the technical community often have strong opinions about open licences for data and code.
+
+### Longevity
+Attendees are often averse to building on top of platforms and datasets that could disappear or will incur usage fees after an event, try to avoid companies making resources available only for the duration of the event and communicate clearly the risk of building on top of any alpha or beta APIs.
+
+### Local API testbeds Optional
+Where possible test servers for the APIs should be setup on the local network, this allows development to continue in the event of internet failure, and also isolates the live API’s from the increased usage the hack day will cause.
 
 # Preparation
 
@@ -327,6 +373,43 @@ This information should be used consistently across top event web sites includin
 There are many event calendars users will use to discover new events in their local areas.  These represent a few of the top ways to market your event via event calendars.  
 
 Make sure and look for local event sites in your hackathons area.
+
+## Printing
+
+You will have printing needs.
+
+## Merchandise
+
+You will need swag and merchandise.
+
+* T-Shirts
+* Stickers
+
+## Food Considerations
+
+### Dietary requirements
+Not everyone in the technical community is hypercarnivorous. Be sure to check with your attendees for dietary requirements: food allergies, vegetarians, vegans and people with dietary restrictions. Make provisions to ensure they are provided for equally. If you’re on a budget, prioritise allergies and vegan alternatives; the vegan alternative will satisfy most non-allergy based requirements.
+
+### Breakfast
+If your event starts before 11am you should provide breakfast to attendees, either continental or cooked.
+
+### Lunch
+You should provide a lunch for each day of the event, this should consist at least of sandwiches (or suitable alternatives for gluten intolerant folk).
+
+### Dinner
+If your event runs later than 6pm or overnight you should provide attendees with a proper evening meal, not sandwiches or snacks (and not everybody likes/eats pizza).
+
+### Overnight
+If your event runs through the night, you should arrange for food to be available throughout the night, either by periodically refreshing it or supplying something that can still be eaten after it has gone cold.
+
+### Drinks
+A selection of coffee, green and black tea (plus milks, sugars), energy drinks, caffeinated and non-caffeinated soft drinks, juices and water should be freely available to attendees throughout the event.
+
+### Snacks
+Chocolate, sweets, biscuits, fruit, crisps, etc. should be freely available to attendees throughout the event. Try to ensure there are healthy options too.
+
+### Alcohol
+Should be served as if you are the owner of your local bar because, in fact, you are. Check licensing rules with the venue, including where and when alcohol can be served and consumed and what time you need to stop serving. If you have underage attendees, make sure they’re not served alcohol. Penalties for failing to do this could range from a fine to imprisonment for the person providing alcohol and loss of licence for the venue.
 
 # Execution
 ## Setting Up
