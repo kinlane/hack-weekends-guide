@@ -1,0 +1,13 @@
+---
+layout: post
+title: Tracking and Harnessing Innovation at Hackathons
+url: http://apievangelist.com
+---
+{% include JB/setup %}<div><i><span class="small">by</span> <a href="https://plus.google.com/106460238807821851374" rel="author">Kin Lane</a><span class="small">on</span> <span class="post-date">07-20-2011</span></i><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/melange/melange-blue-500px.png" alt="" width="250" align="right" />A lot of innovation occurs at <a title="hackathons" href="http://www.apievangelist.com/hackathons-and-contests.php">hackathons</a>. Seems like every hackathon I attend, there are discussion about how to better harness the talent available at these events, and develop a way to track what gets generated.<p></p>
+The last hackathon I attended one of the ideas pitched was actually a web application that tracks what gets produced at hackathons. It would track the participants, and provide repositories for any code created. The application would provide access to ideas and projects from any participating event.<p></p>
+It's a pretty good idea. I think a lot of good ideas and code goes to waste from contests and hackathons. Evening winning ideas may never go anywhere.<p></p>
+<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/hackathon.jpg" alt="" width="300" align="right" />Today I came across a Google project called <a title="Melange" href="http://code.google.com/p/soc/">Melange</a>. Melange is an open-source web application that Google uses to track the <a title="Google Summer of Code" href="http://www.google-melange.com/gsoc/homepage/google/gsoc2011">Google Summer of Code</a> and <a title="Google Code-In" href="http://code.google.com/opensource/gci/2010-11/index.html">Google Code-in</a> programs.<p></p>
+The goal of the project is to create a framework for tracking open-source contribution programs. Google is able to manage Google Summer of Code programs, and other similar programs with the web application.<p></p>
+Melange is part content management system, part issue tracking system, and part customer relationship manager. It is written in Python and runs on Google App Engine.<p></p>
+At first glance it looks like Melange is setup to track all the users, ideas, projects and code for a hackathon environment. It might take a little customization, but Melange may work as a platform for tracking hackathons and contests.<p></p>
+It would be great to have access and visibility to projects and code that gets generated from event to event, and information about the smart people were involved.

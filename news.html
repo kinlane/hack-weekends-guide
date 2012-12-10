@@ -1,0 +1,29 @@
+---
+layout: page
+title: Hack Weekends News
+description: Join the hackathon movement.
+---
+
+{% literal %}
+<script id="newsListingTemplate" type="text/template">
+    
+    <a href="{{url}}" rel="bookmark" title="{{title}}" target="_blank" style="color:#000;"><h4><strong>{{title}}</strong></h4></a>
+    <p>
+    <i>
+        <a href="http://{{source}}" rel="source">{{source}}</a>            
+        <span class="small">on</span> <span class="post-date">{{display_item_date}}</span>
+    </i>
+    </p>
+    <p><strong>Excerpt:</strong>{{details}}</a>...<a href="{{url}}" rel="bookmark" title="{{title}}" target="_blank" style="color:#000;">read more</a>.<</p>
+    <hr />    
+    
+</script>
+{% endliteral %}
+
+<p><a href="https://raw.github.com/kinlane/hack-weekends/gh-pages/data/news/news.json" target="_blank"><img src="images/json-data-store.jpg" align="right" width="40" style="padding-top: 10px;" /></a></p>
+<h1>Hack Weekends News</h1>
+<div id="newsList"></div>  
+
+<script type="text/javascript">
+listNews();
+</script>

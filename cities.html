@@ -1,0 +1,42 @@
+---
+layout: page
+title: Cities
+description: Join the hackathon movement.
+---
+
+<style>                     
+    .cloudUS { margin: 0; padding-top: 10px;}
+    .cloudUS li { color:000;  list-style: none;  margin:5px;}
+    .cloudUS li a { color:#000; }
+</style>
+
+{% literal %}
+<script id="cityListingItemTemplate" type="text/template">
+     <li><a href="city-detail.html?city={{city}}">{{city}}, {{state}}</a></li>                                                                                                 
+</script>
+{% endliteral %}
+
+<h1>Cities</h1>
+<div>
+    <div class="entry">   
+
+       <table cellpadding="5" width="100%">
+           <tr>
+               <td width="33%" valign="top">
+                    <ul class="cloudUS" id="tier1"></ul>
+               </td>
+               <td width="33%" valign="top">
+                    <ul class="cloudUS" id="tier2"></ul>
+               </td>
+               <td width="33%" valign="top">
+                    <ul class="cloudUS" id="tier3"></ul>
+               </td>
+           </tr>   
+        </table>
+        
+    </div>
+</div>  
+
+<script type="text/javascript">
+showCities();
+</script>

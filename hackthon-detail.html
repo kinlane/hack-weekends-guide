@@ -1,0 +1,24 @@
+---
+layout: page
+title: Hack Weekends
+description: Join the hackathon movement.
+---
+
+	 
+{% literal %}
+<script id="eventyDetailTemplate" type="text/template">
+<h2>{{name}}</h2>
+<p>URL: <a href="{{url}}">{{url}}</a></p>
+<div id="about">
+<p>{{{about}}}</p>
+</div>
+<br />
+<p align="center"><a href="directory">Return to Main Hackathon Listing</a></p>
+</script>
+{% endliteral %}
+
+<div id="EventDetail"></div>  
+
+<script>
+getEvent(getUrlVar('url'),getUrlVar('city'))
+</script>
