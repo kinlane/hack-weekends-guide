@@ -157,9 +157,38 @@ Make sure your speaker line-up is logical and fits well with the theme and sched
 # Preparation
 
 ## Website
+
+Hack Weekends guide comes with a ready to go, hackathon website to go with your event.  The website is setup as a separate branch in the Hack Weekends Guide repository.  The Hack Weekends Guide website uses the following technologies:
+
+* [Jekyll] (https://github.com/mojombo/jekyll) - Jekyll is a blog-aware, static site generator 
+* [Github Pages] (http://pages.github.com/) - Github Pages provides a simple and free way to public a site on Github
+
+The Hack Weekends Guide Site can be used in conjunction with this guide to deploy a healthy, quick and low-cost web presence for your hackathon
+
 ## Registration
+
+A formal registration process for the hackathon should setup to handle attendees from start to finish.  The most common tool for doing this is Eventbrite, but there are alternatives as well:
+
+* [DoAttend] (http://www.doattend.com)
+* [EventBee] (http://www.eventbee.com)
+* [EventBrite] (https://www.eventbrite.com)
+* [EventHoller] (http://www.eventholler.com)
+* [HipCity] (http://www.hipcity.in)
+* [SimpleTix] (http://simpletix.com)
+* [SocialTables] (https://www.socialtables.com)
+* [TicketTailor] (http://www.tickettailor.com)
+* [TicketTool] (https://tickettool.net)
+
+A registration process will give you the necessary tools to manage your attendees and understand the scope of your event--as well as give your participants the feeling of organization around the whole process.
+
+Popular event management platforms like EventBrite can also help you market your event and attract developers to the hackathon through a central, established calendar.
+
 ## Marketing
-## Social
+
+
+
+## Social Networking
+## Event Syndication
 
 # Execution
 ## Setting Up
