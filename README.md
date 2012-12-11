@@ -10,9 +10,9 @@ I wanted to provide a single README file for scanning, with as much support mate
 
 This open source guide is compiled with material from:
 
-* Hack Weekends Research
-* Open Data Hackathon How to Guide
-* The Hack Day Manifesto
+* [Hack Weekends Research] (http://hackweekends.com/)
+* [Open Data Hackathon How to Guide] (https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit)
+* [The Hack Day Manifesto] (http://hackdaymanifesto.com/)
 
 And made possible by:
 
