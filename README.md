@@ -8,7 +8,7 @@ This template contains a how-to-guide with accompanying hackathon web site runni
 I wanted to provide a single README file for scanning, with as much support material as possible.  So you can easily understand the wonderful world of hackathons and begin planning and executing hackathons in your community.
 
 This open source guide is compiled with material from:
-<a href="http://singlycom/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/singly-logo-horizontal.png"  width="250" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
+<a href="http://singly.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/singly-logo-horizontal.png"  width="250" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
 * Hack Weekends Research
 * Open Data Hackathon How to Guide
 * The Hack Day Manifesto
