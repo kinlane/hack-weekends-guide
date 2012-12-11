@@ -18,7 +18,7 @@ And made possible by:
 
 * Funding of this project is provided by [Singly] (http://singly.com)
 
-Hack Weekends Guide is licensed Creative Commons to keep alignment with contributors and a healthier global hackathon community.
+Hack Weekends Guide is licensed [Creative Commons] (http://creativecommons.org/licenses/by/3.0/deed.en_US) to keep alignment with contributors and a healthier global hackathon community.
 
 # Overview
 
