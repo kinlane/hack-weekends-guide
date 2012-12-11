@@ -24,13 +24,13 @@ Hack Weekends Guide is licensed [Creative Commons] (http://creativecommons.org/l
 
 ## What is a Hackathon?
 
-A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others in the field of software development, like graphic designers, interface designers, project managers and computational philologists, collaborate intensively on software projects. Occasionally, there is a hardware component as well. Hackathons typically last between a day and a week in length. Some hackathons are intended simply for educational or social purposes, although in many cases the goal is to create usable software. Hackathons tend to have a specific focus, which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
+A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others in the field of software development, like graphic designers, interface designers, project managers and computational philologists, collaborate intensively on software projects. Occasionally, there is a hardware component as well. Hackathons typically last between a day and a week in length. Some hackathons are intended simply for educational or social purposes, although in many cases the goal is to create usable software. Hackathons tend to have a specific focus, which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
 
 ## History
 
-The word "hackathon" is a portmanteau of the words "hack" and "marathon". The term seems to have been created independently by both the developers of OpenBSD and the marketing team of Sun; these usages both first happened in 1999. OpenBSD's apparent first use of the term referred to a cryptographic development event held in Calgary on June 4, 1999, where 10 developers came together to avoid legal problems caused by export regulations of cryptographic software from the United States.[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
+The word "hackathon" is a portmanteau of the words "hack" and "marathon". The term seems to have been created independently by both the developers of OpenBSD and the marketing team of Sun; these usages both first happened in 1999. OpenBSD's apparent first use of the term referred to a cryptographic development event held in Calgary on June 4, 1999, where 10 developers came together to avoid legal problems caused by export regulations of cryptographic software from the United States.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
 
-Starting in the mid to late 2000s, hackathons became significantly more widespread, and began to be increasingly viewed by companies and venture capitalists as a way to quickly develop new software technologies, and to locate new areas for innovation and funding.[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
+Starting in the mid to late 2000s, hackathons became significantly more widespread, and began to be increasingly viewed by companies and venture capitalists as a way to quickly develop new software technologies, and to locate new areas for innovation and funding.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
 
 Hackathon are not intended to perform illegal activities around computer networks. Software developers widely see hacking as a quick and dirty, creative programming solution to a problem.  It is NOT about gaining access to other networks, which is a definition widely publicized by the media and Hollywood.[[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
@@ -742,7 +742,7 @@ There are any number of reason you are throwing a hackathon.  ROI should NOT be 
 
 Achieving your goals, or just learning enough along the way to make it all worth it!
 
-# Footnotes
+# Sources
 
 ## 1 Wikipedia - http://en.wikipedia.org/wiki/Hackathon
 ## 2 Hack Weekends - http://hackweekends.com/
