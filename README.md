@@ -745,6 +745,5 @@ Achieving your goals, or just learning enough along the way to make it all worth
 
 ## Wikipedia - http://en.wikipedia.org/wiki/Hackathon
 ## Hack Weekends - http://hackweekends.com/
-
-* {3} - Open Data Hackathon How to Guide - https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit#
-* {4} - The Hack Day Manifesto - http://hackdaymanifesto.com/
+## Open Data Hackathon How to Guide - https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit#
+## The Hack Day Manifesto - http://hackdaymanifesto.com/
