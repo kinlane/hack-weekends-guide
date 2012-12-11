@@ -549,10 +549,10 @@ Finally, ask the participants if there are any questions before you get started.
 ### Don’t make people feel unwelcome
 Avoid sexism and other discriminatory language or attitudes. Don’t make any assumptions about your attendees. Get someone who is demographically very different from you to check your marketing material through to see if it makes sense and isn’t offensive to someone who doesn’t share your background. {4}
 
-## Do not Charge Attendees
+### Do not Charge Attendees
 If developers are willing to donate their time – which could otherwise be used for paid work or hanging out with family and friends – they should not be charged for tickets. It shows a complete disrespect for the value of their time, and is likely to leave a bad feeling towards the organisers and sponsors. The developers are providing the sponsors a service in testing and showing the possibility of their APIs, data, products and services. {4}
 
-## Intellectual Property
+### Intellectual Property
 The intellectual property rights of hacks produced at the event should belong to the attendees, and not to the organisers, sponsors, or partners, with the obvious exception of (a) hack days based around the further development of an open source project, or (b) commercially run hacks.  Intellectual property can be a big issue; it is best to make expectations clear in advance, both to developers and to sponsors or data providers. {4}
 
 ## Agenda for Each Day
