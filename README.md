@@ -23,7 +23,7 @@ Hack Weekends Guide is licensed Creative Commons to keep alignment with contribu
 
 ## What is a Hackathon?
 
-A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others in the field of software development, like graphic designers, interface designers, project managers and computational philologists, collaborate intensively on software projects. Occasionally, there is a hardware component as well. Hackathons typically last between a day and a week in length. Some hackathons are intended simply for educational or social purposes, although in many cases the goal is to create usable software. Hackathons tend to have a specific focus, which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.[^1]
+A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others in the field of software development, like graphic designers, interface designers, project managers and computational philologists, collaborate intensively on software projects. Occasionally, there is a hardware component as well. Hackathons typically last between a day and a week in length. Some hackathons are intended simply for educational or social purposes, although in many cases the goal is to create usable software. Hackathons tend to have a specific focus, which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.%5B[http://www.dot.com](1)%5D
 
 ## History
 
@@ -743,7 +743,8 @@ Achieving your goals, or just learning enough along the way to make it all worth
 
 # Footnotes
 
-* [^1] - Wikipedia - http://en.wikipedia.org/wiki/Hackathon
-* {2} - Hack Weekends - http://hackweekends.com/
+## Wikipedia - http://en.wikipedia.org/wiki/Hackathon
+## Hack Weekends - http://hackweekends.com/
+
 * {3} - Open Data Hackathon How to Guide - https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit#
 * {4} - The Hack Day Manifesto - http://hackdaymanifesto.com/
