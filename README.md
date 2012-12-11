@@ -691,14 +691,55 @@ Even after your event is technically over, there are still opportunities to conn
 
 ## Thank You
 
+When you are done.  You slept for 12 hours straight.  You have had a cup of coffee.  
+
+Who do you want to thank?  Volunteers?  Assistant?  Mother?  Developers?  Venue?
+
+Make sure they hear from you.  Who are they?
+
 ## Stories
+
+What stories can you tell from the hackathon experience?  Was there an overall story you could tell about the event?  Which personalities stood out?  
+
+Find stories you can tell on your blog, twitter and word of mouth. Make sure everyone understand what a success the event was.  
+
+You need to tell the stories, its part of the hackathon experience.
 
 ## Social Connections
 
+Have you connected with every one of your hackathon attendees?  Do you know if they tweeted about your event?  You should know the primary channel of every attendee.  Are they more public on Twitter?  Are they more enterprise, and on LinkedIn?
+
+Re-enforce the connections while they are still fresh.
+
 ## Update Website
+
+What does the website say 2 days after the event?  It sends a pretty strong signal to your target audience if you refresh the website to reflect what happend at the hackathon.  Can you post:
+
+* Pictures
+* Projects
+* Winners
+
+Updating the hackathon website shortly after the event, capturing the essence of what happened--then priming the pump for the next hackathon.   
+
+Keep the website representing your goals around throwing the hackathon in the first place. 
 
 ## Return on Investment (ROI)
 
+We all want to understand the return on our investment?  Right?  
+
+Well, some more than others.  Soem of the hackathon experience isn't measurable.  But there are ways you can measure the success or failure of your event.
+
+Hopefully you had a pretty clear vision of what you wanted to deliver with the event:
+
+* Understanding of your platform
+* Bring attention to an issue
+* Solve a precise problem
+* Incnrease awareness of your brand
+* Acquire new talent in a specific area
+
+There are any number of reason you are throwing a hackathon.  ROI should NOT be the focus of your efforts, but you can maximize your return.  
+
+Achieving your goals, or just learning enough along the way to make it all worth it!
 
 # Footnotes
 
