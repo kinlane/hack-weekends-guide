@@ -3,15 +3,15 @@ Hack Weekends Guide
 
 This is an open source template for organizing a hackathon.
 
-This template contains a how-to-guide with accompanying hackathon web site running on [Github Pages] (http://pages.github.com/) + [Jekyll] (https://github.com/mojombo/jekyll).
+This template contains a [how-to-guide] (https://github.com/kinlane/hack-weekends-guide) with accompanying [hackathon web site] (http://kinlane.github.com/hack-weekends-guide/) running on [Github Pages] (http://pages.github.com/) + [Jekyll] (https://github.com/mojombo/jekyll).
 
 I wanted to provide a single README file for scanning, with as much support material as possible.  So you can easily understand the wonderful world of hackathons and begin planning and executing hackathons in your community.
 
 This open source guide is compiled with material from:
 <a href="http://singly.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/singly-logo-horizontal.png"  width="250" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
-* Hack Weekends Research
-* Open Data Hackathon How to Guide
-* The Hack Day Manifesto
+* [Hack Weekends Research] (http://hackweekends.com)
+* [Open Data Hackathon How to Guide] (https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit)
+* [The Hack Day Manifesto] (http://hackdaymanifesto.com/)
 
 And made possible by:
 
