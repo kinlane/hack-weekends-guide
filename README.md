@@ -744,7 +744,7 @@ Achieving your goals, or just learning enough along the way to make it all worth
 
 # Footnotes
 
-* [[1](https://github.com/kinlane/hack-weekends-guide#wikipedia---httpenwikipediaorgwikihackathon)] - Wikipedia - http://en.wikipedia.org/wiki/Hackathon
-* [[2](https://github.com/kinlane/hack-weekends-guide#hack-weekends---httphackweekendscom))] - Hack Weekends - http://hackweekends.com/
-* [[3](https://github.com/kinlane/hack-weekends-guide#open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)] - Open Data Hackathon How to Guide - https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit#
-* [[4](https://github.com/kinlane/hack-weekends-guide#the-hack-day-manifesto---httphackdaymanifestocom)] - The Hack Day Manifesto - http://hackdaymanifesto.com/
+## Wikipedia - http://en.wikipedia.org/wiki/Hackathon
+## Hack Weekends - http://hackweekends.com/
+## Open Data Hackathon How to Guide - https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit#
+## The Hack Day Manifesto - http://hackdaymanifesto.com/
