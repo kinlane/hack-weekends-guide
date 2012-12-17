@@ -1,4 +1,4 @@
-Hack Weekends Guide
+Singly Hack Weekends Guide
 ===================
 
 <a href="http://singly.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/singly-logo-horizontal.png"  width="250" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
