@@ -9,7 +9,7 @@
     <meta name="author" content="Kin Lane">
 
     <!-- Le styles -->
-    <link href="assets/themes/twitter/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 10px;
@@ -57,14 +57,13 @@
         text-align: center;
         }          
     </style>
-    <link href="assets/themes/twitter/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-<<<<<<< HEAD
     <title>Singly Hackathon Guide</title>
     
     <!-- AddThisEvent -->
@@ -73,49 +72,10 @@
   </head>
 
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/kinlane/hack-weekends-guide">View on GitHub</a>
-
-          <h1 id="project_title"><a href="http://siingly.com" title="Singly" target="_blank">Singly</a> <a href="https://github.com/kinlane/hack-weekends-guide" target="_blank">Hackathon Guide</a></h1>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/kinlane/hack-weekends-guide/zipball/master">Download as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/kinlane/hack-weekends-guide/tarball/master">Download as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">     
-
-                  {{ content }}
-
-        </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Hack Weekends Guide is maintained by <a href="https://github.com/kinlane">Kin Lane</a></p>
-        <p class="copyright">Hack Weekends Guide supported by <a href="https://singly.com">Singly</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-=======
-  </head>
-
-  <body>
       
->>>>>>> Updating with new Singly template
-    
     {{ content }}
 
- <script src="assets/themes/twitter/bootstrap/css/jquery.js"></script>
+    <script src="{{ ASSET_PATH }}bootstrap/css/jquery.js"></script>
 
   </body>
 </html>
