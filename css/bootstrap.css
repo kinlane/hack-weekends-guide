@@ -724,7 +724,7 @@ h6 {
   font-family: inherit;
   font-weight: bold;
   line-height: 20px;
-  color: inherit;
+  color: #02BAAE;
   text-rendering: optimizelegibility;
 }
 
@@ -736,13 +736,15 @@ h5 small,
 h6 small {
   font-weight: normal;
   line-height: 1;
-  color: #999999;
+  color: #02BAAE;
 }
 
 h1,
 h2,
 h3 {
   line-height: 40px;
+  padding-left: 30px;
+  padding-bottom: 1px;
 }
 
 h1 {
@@ -754,11 +756,11 @@ h2 {
 }
 
 h3 {
-  font-size: 24.5px;
+  font-size: 22px;
 }
 
 h4 {
-  font-size: 17.5px;
+  font-size: 20px;
 }
 
 h5 {
@@ -2977,16 +2979,12 @@ table th[class*="span"],
 
 .dropup .caret,
 .navbar-fixed-bottom .dropdown .caret {
-  border-top: 0;
-  border-bottom: 4px solid #000000;
-  content: "";
+
 }
 
 .dropup .dropdown-menu,
 .navbar-fixed-bottom .dropdown .dropdown-menu {
-  top: auto;
-  bottom: 100%;
-  margin-bottom: 1px;
+
 }
 
 .dropdown-submenu {
@@ -4292,10 +4290,11 @@ input[type="submit"].btn.btn-mini {
   *z-index: 2;
   margin-bottom: 20px;
   overflow: visible;
+  width: 1020px;
 }
 
 .navbar-inner {
-  min-height: 40px;
+  min-height: 35px;
   padding-right: 20px;
   padding-left: 20px;
   background-color: #fafafa;
@@ -4340,7 +4339,7 @@ input[type="submit"].btn.btn-mini {
   display: block;
   float: left;
   padding: 10px 20px 10px;
-  margin-left: -20px;
+  margin-left: 10px;
   font-size: 20px;
   font-weight: 200;
   color: #777777;
@@ -4462,9 +4461,6 @@ input[type="submit"].btn.btn-mini {
 
 .navbar-fixed-top,
 .navbar-fixed-bottom {
-  position: fixed;
-  right: 0;
-  left: 0;
   z-index: 1030;
   margin-bottom: 0;
 }
@@ -4505,7 +4501,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar-fixed-bottom {
-  bottom: 0;
+margin-right: 250px;
 }
 
 .navbar-fixed-bottom .navbar-inner {
@@ -4519,7 +4515,7 @@ input[type="submit"].btn.btn-mini {
   left: 0;
   display: block;
   float: left;
-  margin: 0 10px 0 0;
+  margin: 0 10px 0 25px;
 }
 
 .navbar .nav.pull-right {
@@ -4533,7 +4529,7 @@ input[type="submit"].btn.btn-mini {
 
 .navbar .nav > li > a {
   float: none;
-  padding: 10px 15px 10px;
+  padding: 10px 15px 10px 40px;
   color: #777777;
   text-decoration: none;
   text-shadow: 0 1px 0 #ffffff;
