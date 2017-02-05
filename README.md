@@ -724,7 +724,7 @@ Keep the website representing your goals around throwing the hackathon in the fi
 
 We all want to understand the return on our investment?  Right?  
 
-Well, some more than others.  Soem of the hackathon experience isn't measurable.  But there are ways you can measure the success or failure of your event.
+Well, some more than others.  Some of the hackathon experience isn't measurable.  But there are ways you can measure the success or failure of your event.
 
 Hopefully you had a pretty clear vision of what you wanted to deliver with the event:
 
