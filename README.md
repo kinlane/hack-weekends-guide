@@ -1,20 +1,20 @@
-The Ultimate Guide to Hack Weekends 
+The Ultimate Guide to Hack Weekends
 ===================
 
 <a href="http://hackweekends.com/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/hackweekends/hack-weekends-logo-2.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
 This is an open source template for organizing a hackathon.
 
-This template contains a [how-to-guide] (https://github.com/kinlane/hack-weekends-guide#the-hack-day-manifesto---httphackdaymanifestocom) with accompanying [hackathon web site] (http://kinlane.github.com/hack-weekends-guide/) running on [Github Pages] (http://pages.github.com/) + [Jekyll] (https://github.com/mojombo/jekyll).
+This template contains a [how-to-guide](https://github.com/kinlane/hack-weekends-guide#the-hack-day-manifesto---httphackdaymanifestocom) with accompanying [hackathon web site](http://kinlane.github.com/hack-weekends-guide/) running on [Github Pages](http://pages.github.com/) + [Jekyll](https://github.com/mojombo/jekyll).
 
 I wanted to provide a single README file for scanning, with as much support material as possible.  So you can easily understand the wonderful world of hackathons and begin planning and executing hackathons in your community.
 
 This open source guide is compiled with material from:
 
-* [Hack Weekends] (http://hackweekends.com/)
-* [Open Data Hackathon How to Guide] (https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit)
-* [The Hack Day Manifesto] (http://hackdaymanifesto.com/)
+* [Hack Weekends](http://hackweekends.com/)
+* [Open Data Hackathon How to Guide](https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit)
+* [The Hack Day Manifesto](http://hackdaymanifesto.com/)
 
-Hack Weekends Guide is licensed [Creative Commons] (http://creativecommons.org/licenses/by/3.0/deed.en_US) to keep alignment with contributors and a healthier global hackathon community.
+Hack Weekends Guide is licensed [Creative Commons](http://creativecommons.org/licenses/by/3.0/deed.en_US) to keep alignment with contributors and a healthier global hackathon community.
 
 # Overview
 
@@ -33,7 +33,7 @@ Hackathon are not intended to perform illegal activities around computer network
 ## Why Hold a Hackathon?
 Before you run a Hackathon, it’s useful to think about the purpose behind it.  What are you hoping to accomplish?  Your goal can be as general as “increase awareness around open data” or more specific, such as “fix at least 10 bugs in software application X”. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-As well, think about the stakeholders for your event, including attendees, volunteers, sponsors and third parties, and what they might get out the experience or how they might be impacted.  For example, you may want your attendees to be inspired or have them learn new skills.  You might want a third party, for example the homeless, to benefit. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)] 
+As well, think about the stakeholders for your event, including attendees, volunteers, sponsors and third parties, and what they might get out the experience or how they might be impacted.  For example, you may want your attendees to be inspired or have them learn new skills.  You might want a third party, for example the homeless, to benefit. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 And finally, it’s useful to think about what you will get out of the event.  Is it an opportunity to build your community?  Perhaps an opportunity to demonstrate leadership or to practice facilitation? [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
@@ -47,7 +47,7 @@ People like to help out with causes that they believe in.  Involving others in t
 
 * <strong>Facilitator</strong> - The person who manages the Hackathon process.
 * <strong>Ringer</strong> - A participant who understands open data concepts and the technologies involved and who can work on projects and help others to work on their projects.
-* <strong>Room Manager</strong> - The room manager is someone that people can go to when they are not sure what to do and would like some direction.  People who attend may have little or no experience with Hackathons.  The room manager is the go-to person for those who do not know what to do or how they can help.  
+* <strong>Room Manager</strong> - The room manager is someone that people can go to when they are not sure what to do and would like some direction.  People who attend may have little or no experience with Hackathons.  The room manager is the go-to person for those who do not know what to do or how they can help.
 * <strong>Social Media Manager</strong> - This person will Tweet and update Facebook and Google+ status for your event.  If your organization has its own Twitter or other social media accounts, you may want to consider giving this person temporary access so they can manage the social media tools for the event. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 ## Title and Description
@@ -86,7 +86,7 @@ Within this schedule several hackathon components can be applied:
 * Award Ceremonies
 * After Party
 
-This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best. 
+This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
 
 ## Size
 
@@ -100,9 +100,9 @@ Keep size in line with your over goal for throwing a hackathon
 
 ### Choose a Date
 
-Choosing a good date for your Hackathon can have a significant influence on how well it is attended and how much impact it has.  Hackathons take concentrated effort over at least one day, so community Hackathons are typically held on weekends when most people are not working.  Make sure you choose a date far enough in advance to allow yourself time to promote it to attendees.  [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)] 
+Choosing a good date for your Hackathon can have a significant influence on how well it is attended and how much impact it has.  Hackathons take concentrated effort over at least one day, so community Hackathons are typically held on weekends when most people are not working.  Make sure you choose a date far enough in advance to allow yourself time to promote it to attendees.  [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-In addition, we recommend that if possible, you avoid the following when choosing your date: 
+In addition, we recommend that if possible, you avoid the following when choosing your date:
 * holiday weekends
 *politically significant dates, such as elections, especially if you are organizing a  government open data Hackathon
 * religious holidays
@@ -120,9 +120,9 @@ One of the most frustrating things for attendees to see is two similar events on
 
 ## Choose a Venue
 
-The venue you select should be the right size and style for your event.  Hackathons can be held in many different venues, such as pubs, coffee shops or restaurants (if they have a separate space), rooms on campuses, or work areas or boardrooms provided by sponsors. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]   
+The venue you select should be the right size and style for your event.  Hackathons can be held in many different venues, such as pubs, coffee shops or restaurants (if they have a separate space), rooms on campuses, or work areas or boardrooms provided by sponsors. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-Choose the right style of venue for your event.  For example, choosing a pub for a Hackathon where some of your desired participants are underage will not work well. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]  
+Choose the right style of venue for your event.  For example, choosing a pub for a Hackathon where some of your desired participants are underage will not work well. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 Choose the right size of venue as well.  Asking for pre-registration can help in choosing an appropriately-sized venue.  It is not always a reliable indicator as some folks do not like to commit or are reluctant to share their email addresses.  That said, asking them to register beforehand will give you some idea of how many will attend.  You can use a web service such as EventBrite, or you can simply use a Google spreadsheet. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
@@ -232,13 +232,13 @@ Talk to your venue about what audio and visual equipment is provided, then resea
 
 ## Sponsorship
 
-Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]  
+Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 In addition to providing a good working space for your attendees, it’s a good idea to provide plenty of food.  Not only will your attendees appreciate the gesture, but you want them to be able to focus on their projects without the distraction of leaving to get food and drinks.  For a one-day event starting in the morning, be prepared to provide coffee and pastries in the morning, a nutritious lunch with beverages, and snacks, water and cold beverages through the day. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-From our experience in various cities in BC, we had 30 attendees on average.  We have had as many as 60 and as few as 12.  Plan on spending $300 to $400 on food and beverages, depending on the number of attendees to your event. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)] 
+From our experience in various cities in BC, we had 30 attendees on average.  We have had as many as 60 and as few as 12.  Plan on spending $300 to $400 on food and beverages, depending on the number of attendees to your event. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-When you talk to prospective sponsors about your event, they may have never heard of Hackathons.  They will want to know what to expect, so be prepared to explain a bit about Hackathons as well as about your cause.  [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)] 
+When you talk to prospective sponsors about your event, they may have never heard of Hackathons.  They will want to know what to expect, so be prepared to explain a bit about Hackathons as well as about your cause.  [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 Before you go to talk to your prospective sponsor, think about how they can benefit from your Hackathon so you can explain to them.  Benefits may include: [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
@@ -311,7 +311,7 @@ Where possible test servers for the APIs should be setup on the local network, t
 
 Prizes are common place for the top teams at hackathons.  Prizes can range from gift cards to cash.  There are many opinions on hackathon prizes, but it is up to you, how you want to reward your hackathon participants. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
-### Not every hack day needs prizes 
+### Not every hack day needs prizes
 Some people go to hack days to learn, or to play. Having one team go home with enormous prizes and many other teams go home with nothing may sour the end of the event. Make sure it’s not all about the money/toys. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
 
 ### Prizes per team member
@@ -334,8 +334,8 @@ Remember, the hackathon is about the winner or prizes.  Its the experience! [[2]
 
 Hack Weekends guide comes with a ready to go, hackathon website to go with your event.  The website is setup as a separate branch in the Hack Weekends Guide repository.  The Hack Weekends Guide website uses the following technologies: [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
-* [Jekyll] (https://github.com/mojombo/jekyll) - Jekyll is a blog-aware, static site generator 
-* [Github Pages] (http://pages.github.com/) - Github Pages provides a simple and free way to public a site on Github
+* [Jekyll](https://github.com/mojombo/jekyll) - Jekyll is a blog-aware, static site generator
+* [Github Pages](http://pages.github.com/) - Github Pages provides a simple and free way to public a site on Github
 
 The Hack Weekends Guide Site can be used in conjunction with this guide to deploy a healthy, quick and low-cost web presence for your hackathon. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
@@ -343,15 +343,15 @@ The Hack Weekends Guide Site can be used in conjunction with this guide to deplo
 
 A formal registration process for the hackathon should setup to handle attendees from start to finish.  The most common tool for doing this is Eventbrite, but there are alternatives as well: [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
-* [DoAttend] (http://www.doattend.com)
-* [EventBee] (http://www.eventbee.com)
-* [EventBrite] (https://www.eventbrite.com)
-* [EventHoller] (http://www.eventholler.com)
-* [HipCity] (http://www.hipcity.in)
-* [SimpleTix] (http://simpletix.com)
-* [SocialTables] (https://www.socialtables.com)
-* [TicketTailor] (http://www.tickettailor.com)
-* [TicketTool] (https://tickettool.net)
+* [DoAttend](http://www.doattend.com)
+* [EventBee](http://www.eventbee.com)
+* [EventBrite](https://www.eventbrite.com)
+* [EventHoller](http://www.eventholler.com)
+* [HipCity](http://www.hipcity.in)
+* [SimpleTix](http://simpletix.com)
+* [SocialTables](https://www.socialtables.com)
+* [TicketTailor](http://www.tickettailor.com)
+* [TicketTool](https://tickettool.net)
 
 A registration process will give you the necessary tools to manage your attendees and understand the scope of your event--as well as give your participants the feeling of organization around the whole process. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
@@ -374,7 +374,7 @@ Your Hackathon attendee list will likely develop organically, which is a good ap
 There are some tools you could use to promote your event, including:
 Twitter - if you are established on Twitter and your Hackathon fits with your normal identity and audience, then use your Twitter account to let the world know.  It may be desirable to create a new account and get help from established and relevant Twitter id’s to help you with promotion.  For example, if you are organizing a community Hackathon to benefit a community cause, connect with the Twitter mavens in your community and ask them to retweet you and otherwise spread the word. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-* Facebook - you could create a Facebook page to promote your event.  
+* Facebook - you could create a Facebook page to promote your event.
 * Blogs - if you are a blogger, then write a post about your event.  Brief and succinct are usually good rules of thumb, to be sure the key information is read.  Link to registration or other relevant sites from your post.  You can also ask others who are connected to the cause for your event to blog about it.
 * Mailing Lists / Google Groups
 * Word of Mouth
@@ -391,7 +391,7 @@ Have a social networking presence is how you will connect with your attendees, b
 * LinkedIn
 * Google+
 
-Each of these social networks give you the ability to setup accounts and have a page dedicated to the event. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]  
+Each of these social networks give you the ability to setup accounts and have a page dedicated to the event. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
 If you setup social networking accounts.  Make sure you keep them active and actually engage with your audience. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
@@ -417,18 +417,18 @@ There are several established and emerging sites for syndicating events to.  You
 
 This information should be used consistently across top event web sites including:
 
-* [DingBee] (http://dingbee.com/)
-* [Eventful] (http://eventful.com/)
-* [EventSetter] (http://www.eventsetter.com/)
-* [Facebook] (http://www.facebook.com/events/)
-* [Going] (http://going.com/)
-* [Laynyrd] (http://lanyrd.com/)
-* [Meetup] (http://www.meetup.com/)
-* [Plancast] (http://plancast.com/)
-* [UpComing] (http://upcoming.yahoo.com/)
-* [ZEvents] (http://www.zvents.com/)
+* [DingBee](http://dingbee.com/)
+* [Eventful](http://eventful.com/)
+* [EventSetter](http://www.eventsetter.com/)
+* [Facebook](http://www.facebook.com/events/)
+* [Going](http://going.com/)
+* [Laynyrd](http://lanyrd.com/)
+* [Meetup](http://www.meetup.com/)
+* [Plancast](http://plancast.com/)
+* [UpComing](http://upcoming.yahoo.com/)
+* [ZEvents](http://www.zvents.com/)
 
-There are many event calendars users will use to discover new events in their local areas.  These represent a few of the top ways to market your event via event calendars.  
+There are many event calendars users will use to discover new events in their local areas.  These represent a few of the top ways to market your event via event calendars.
 
 Make sure and look for local event sites in your hackathons area.
 
@@ -489,14 +489,14 @@ Your technical person will want to complete the following tasks, long before you
 * Test that SSH, FTP and any other applications can connect externally.
 * Make sure quality networking equipment is in use for wifi and get any wireless login credentials. Try to avoid networking configurations that are set up with a web-based login system, as these can cause technical issues. If this is the case, see if you can get a clean line and set up your own wireless router.
 * Arrange the work tables
-* Try to allow for enough spacing to allow both laptops and food/drink at the tables. 
+* Try to allow for enough spacing to allow both laptops and food/drink at the tables.
 * Make sure there are enough power outlets (powerbars) at each table.  As well, preferably enough wired network jacks at each table in the event they are needed.
 
 While the technical details are being sorted out, another organizer will want to be setting up the reception table, food, coffee and snacks. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 Signage is important. Make sure there are signs that let the participants know that they are at the correct building and that they’ve found the right room. There should be contact information on these signs and if there are access controls (security, locked doors, etc.) in place, someone should be actively monitoring to make sure no one is stuck outside. Don’t rely on a ‘call us when you get here’ system because not everyone will have a mobile phone. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-Inside the room, use signs, a whiteboard, or a flipchart to communicate relevant information to your attendees, such as the wifi access credentials, website urls, Twitter hashtag for the event, etc.  Use text large enough that it can be read across the room. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]  
+Inside the room, use signs, a whiteboard, or a flipchart to communicate relevant information to your attendees, such as the wifi access credentials, website urls, Twitter hashtag for the event, etc.  Use text large enough that it can be read across the room. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 ## Audio / Video
 
@@ -526,7 +526,7 @@ Working at a hack day, as a volunteer or otherwise, can be a stressful and deman
 ## Introduction
 As people arrive, welcome them and direct them to the area where you’ll be working and where they can find coffee and snacks.  If you have a photo release form, this is a good time to hand it out, ask them to sign it and return it to you. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-People will arrive at various times regardless of the official start time for your hackathon.  We recommend that you start the event on time, only delaying if you don’t think you have enough people to get started.  Don’t delay the start more than 15 minutes in order to honour the people who arrived on time. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)] 
+People will arrive at various times regardless of the official start time for your hackathon.  We recommend that you start the event on time, only delaying if you don’t think you have enough people to get started.  Don’t delay the start more than 15 minutes in order to honour the people who arrived on time. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 When it’s time to start, you# should get the attention of the room and give a brief introduction, being sure to cover the following topics: [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
@@ -627,7 +627,7 @@ One of the most important tasks of the facilitator and the organizing team is to
 If they are in the second camp, where they don’t really want to participate, then let them know it’s fine to observe.   [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 ## Show and Tell
-The Show-and-Tell section is pretty straightforward.  It gives people an opportunity to show what they have worked on and get some feedback from the larger group. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]  
+The Show-and-Tell section is pretty straightforward.  It gives people an opportunity to show what they have worked on and get some feedback from the larger group. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
 In preparation for this stage of the hackathon, you will want to have the projector set up, and accessible for people to easily connect to with their laptop.  [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
@@ -668,7 +668,7 @@ At the end of the hackathon, you have the opportunity to: [[3](https://github.co
 
 * thank participants for their generosity - especially if your hackathon is a weekend event, and they have given up personal time to be there
 * thank the host and sponsor for providing the space and food (or whatever applies)
-* thank any data providers 
+* thank any data providers
 * thank any special guests
 * make your closing remarks
 
@@ -688,7 +688,7 @@ Even after your event is technically over, there are still opportunities to conn
 
 ## Thank You
 
-When you are done.  You slept for 12 hours straight.  You have had a cup of coffee.  
+When you are done.  You slept for 12 hours straight.  You have had a cup of coffee.
 
 Who do you want to thank?  Volunteers?  Assistant?  Mother?  Developers?  Venue?
 
@@ -696,9 +696,9 @@ Make sure they hear from you.  Who are they?
 
 ## Stories
 
-What stories can you tell from the hackathon experience?  Was there an overall story you could tell about the event?  Which personalities stood out?  
+What stories can you tell from the hackathon experience?  Was there an overall story you could tell about the event?  Which personalities stood out?
 
-Find stories you can tell on your blog, twitter and word of mouth. Make sure everyone understand what a success the event was.  
+Find stories you can tell on your blog, twitter and word of mouth. Make sure everyone understand what a success the event was.
 
 You need to tell the stories, its part of the hackathon experience.
 
@@ -716,13 +716,13 @@ What does the website say 2 days after the event?  It sends a pretty strong sign
 * Projects
 * Winners
 
-Updating the hackathon website shortly after the event, capturing the essence of what happened--then priming the pump for the next hackathon.   
+Updating the hackathon website shortly after the event, capturing the essence of what happened--then priming the pump for the next hackathon.
 
-Keep the website representing your goals around throwing the hackathon in the first place. 
+Keep the website representing your goals around throwing the hackathon in the first place.
 
 ## Return on Investment (ROI)
 
-We all want to understand the return on our investment?  Right?  
+We all want to understand the return on our investment?  Right?
 
 Well, some more than others.  Some of the hackathon experience isn't measurable.  But there are ways you can measure the success or failure of your event.
 
@@ -734,7 +734,7 @@ Hopefully you had a pretty clear vision of what you wanted to deliver with the e
 * Incnrease awareness of your brand
 * Acquire new talent in a specific area
 
-There are any number of reason you are throwing a hackathon.  ROI should NOT be the focus of your efforts, but you can maximize your return.  
+There are any number of reason you are throwing a hackathon.  ROI should NOT be the focus of your efforts, but you can maximize your return.
 
 Achieving your goals, or just learning enough along the way to make it all worth it!
 
